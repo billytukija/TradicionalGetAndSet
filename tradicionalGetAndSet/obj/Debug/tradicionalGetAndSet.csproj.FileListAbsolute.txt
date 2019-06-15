@@ -1,0 +1,7 @@
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\bin\Debug\tradicionalGetAndSet.exe.config
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\bin\Debug\tradicionalGetAndSet.exe
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\bin\Debug\tradicionalGetAndSet.pdb
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\obj\Debug\tradicionalGetAndSet.csprojAssemblyReference.cache
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\obj\Debug\tradicionalGetAndSet.csproj.CoreCompileInputs.cache
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\obj\Debug\tradicionalGetAndSet.exe
+C:\Users\Billy Tukija\Documents\GitHub\BACK-END\Advanced C#\tradicionalGetAndSet\tradicionalGetAndSet\obj\Debug\tradicionalGetAndSet.pdb
